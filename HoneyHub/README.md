@@ -8,7 +8,7 @@ react 진영의 Next.js냐 vue 진영의 Nuxt냐.
 
 
 ### 2. React vs Vue
-![React vs Vue](react%20vs%20vue.png)
+![React vs Vue](../Images/react%20vs%20vue.png)
 - 세계적인 기술 트렌드나 국내 채용시장에서의 기술 선호도 자체가 react가 압승이다.
 - 회사에서도 그렇고 주로 react를 사용해서 react가 좀 더 친숙하기도 하다.
 - react 진영의 SSR, Next.js를 채용하는 것으로 결정
